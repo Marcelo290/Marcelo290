@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Marcelo290
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Marcelo290/Marcelo290 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+git clone https://github.com/Scheyot2/sakura-botv6.9.5.git
+termux-setup-storage
+cd /sdcard/mashle-bot
+cd /sdcard/
+https://github.com/Scheyot2/sakura-botv6.9.5.git
+       sh scheyot.sh
+       
